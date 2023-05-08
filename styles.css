@@ -1,0 +1,107 @@
+h1{
+    color: black;
+}
+/*Barra de navegacion*/
+
+.navbar {
+    padding: 2rem;
+    background-color: #dadde2;  
+}
+
+.navbar-collapse { 
+    align-items: center;
+    justify-content: space-between;
+}
+/*estilos generales*/
+
+
+
+.seccion-titulo{
+    font-size: 2rem;
+    padding: 15px 0;
+}
+
+section{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.seccion-texto{
+    font-size: 18px;
+    line-height: 1.5;
+}
+
+.seccion-clara{
+    color: black;
+    background-color: white;
+}
+
+h1{
+    font-size: 2rem;
+}
+
+.hero{
+    background-color: #f5f6f7;
+    min-height: 450px;
+    text-align: center;
+}
+
+.hero-principal{
+    padding: 3rem;
+}
+.hero-principal h2{
+    font-size: 1.5rem;
+    color: #615151
+}
+.hero-imagen-desarrollador{
+    width: 200px;
+    height: 200px;
+    margin: 20px;
+}
+
+.sobre-mi{
+    height: 500px;
+    padding: 10px;
+}
+.sobre-mi .contenedor{
+    max-width: 600px;
+    text-align: center;
+}
+/*Experiencia*/
+.experiencia{
+    padding: 40px;
+}
+
+.experiencia .row div {
+    height: 450px;
+    background-color: white;
+    text-align: justify;
+}
+
+.experiencia i {
+    font-size: 2.5rem;
+    padding: 20px 19px;
+    text-align: center;
+    justify-content: center;
+    display: flex;
+}
+.experiencia-titulo{
+    font-size: 25px;
+    font-weight: bold;
+    margin: 10px 0;
+    text-align: center;
+}
+
+
+@media screen and (max-width: 767px){
+    .navbar-brand{
+        display: none;
+    }
+}
+
+
+    
+
+/*Falta adapatar el media 
