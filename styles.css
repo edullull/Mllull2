@@ -37,9 +37,17 @@ section{
     color: black;
     background-color: white;
 }
+h2{
+    font-size: 2rem;
+    text-align: center;
+}
 
 h1{
     font-size: 2rem;
+}
+
+p{
+    font-size: 18px;
 }
 
 .hero{
@@ -63,7 +71,17 @@ h1{
 
 .sobre-mi{
     height: 500px;
-    padding: 10px;
+    padding: 20px;
+}
+.sobre-my{
+    max-width: 1000px;
+    min-height: 150px;
+    padding: 20px;
+    background-color:  rgb(239, 241, 246);
+    border-radius: 10px;
+}
+.accordion-collapse {
+    text-align: left;
 }
 .sobre-mi .contenedor{
     max-width: 600px;
@@ -92,6 +110,24 @@ h1{
     font-weight: bold;
     margin: 10px 0;
     text-align: center;
+}
+
+
+/* Contacto */
+
+.contacto .container{
+    max-width: 1100px;
+    min-height: 150px;
+    padding: 20px;
+}
+.contacto .seccion-oscura{
+    height: 200px;
+}
+
+.contacto .rectangulo{
+    background-color: rgb(222, 225, 231);
+    border-radius: 10px;
+    box-shadow: 0px 1px 4px 1px white;
 }
 
 
