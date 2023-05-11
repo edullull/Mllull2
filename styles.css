@@ -133,8 +133,9 @@ p{
 
 .contadora{
     width: 100%;
-    background-color: rgb(222, 225, 231);
-
+    height: 100px;
+    background-color: black;
+    color: white;
 
 }
 
