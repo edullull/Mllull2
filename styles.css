@@ -3,6 +3,11 @@ h1{
 }
 /*Barra de navegacion*/
 
+ul{
+    text-align: left;
+    font-size: 20px;
+}
+
 .navbar {
     padding: 2rem;
     background-color: #dadde2;  
@@ -80,9 +85,7 @@ p{
     background-color:  rgb(239, 241, 246);
     border-radius: 10px;
 }
-.accordion-collapse {
-    text-align: left;
-}
+
 .sobre-mi .contenedor{
     max-width: 600px;
     text-align: center;
@@ -129,6 +132,7 @@ p{
     border-radius: 10px;
     box-shadow: 0px 1px 4px 1px white;
 }
+
 
 
 @media screen and (max-width: 767px){
