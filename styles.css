@@ -154,8 +154,12 @@ p{
 
     .contenedor{
 
-        height: 650px;
+        height: 673px;
 
+    }
+    .sobre-mi{
+        height: 620px;
+        padding: 20px;
     }
 }
 
