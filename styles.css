@@ -146,7 +146,7 @@ p{
 
 }
 
-@media screen and (max-width: 400px){
+@media screen and (max-width: 405px){
     .navbar-brand{
         display: none;
     }
