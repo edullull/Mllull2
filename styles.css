@@ -159,7 +159,7 @@ p{
 
 }
 
-@media screen and (max-width: 400px){
+@media screen and (max-width: 415px){
     .navbar-brand{
         display: none;
     }
@@ -174,7 +174,7 @@ p{
         height: 1000px;
     }
     .sobre-mi{
-        height: 680px;
+        height: 815px;
         padding: 20px;
     }
     .sobre-mi2{
@@ -196,7 +196,35 @@ p{
     
 
 /*Falta adapatar el media */
-@media screen and (max-width: 300px){
+@media screen and (max-width: 360px){
 
+    .navbar-brand{
+        display: none;
+    }
+    .contadora{
+        width: 100%;
+        height: 180px;
+        background-color: black;
+        color: white;
+    }
 
+    .contenedor{
+        height: 1000px;
+    }
+    .sobre-mi{
+        height: 835px;
+        padding: 20px;
+    }
+    .sobre-mi2{
+        height: 800px;
+        padding: 20px;
+    }
+    .sobre-mi3{
+        height: 1050px;
+        padding: 20px;
+    }
+
+    h3{
+        color: rgb(229, 55, 55);
+    }
 }
