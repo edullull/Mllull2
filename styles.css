@@ -78,11 +78,11 @@ p{
 }
 
 .sobre-mi{
-    height: 620px;
+    height: 720px;
     padding: 20px;
 }
 .sobre-mi2{
-    height: 650px;
+    height: 750px;
     padding: 20px;
 }
 .sobre-my{
@@ -153,13 +153,13 @@ p{
 
 .contadora{
     width: 100%;
-    height: 100px;
+    height: 180px;
     background-color: black;
     color: white;
 
 }
 
-@media screen and (max-width: 415px){
+@media screen and (max-width: 400px){
     .navbar-brand{
         display: none;
     }
@@ -178,11 +178,11 @@ p{
         padding: 20px;
     }
     .sobre-mi2{
-        height: 720px;
+        height: 760px;
         padding: 20px;
     }
     .sobre-mi3{
-        height: 860px;
+        height: 990px;
         padding: 20px;
     }
 
@@ -195,4 +195,8 @@ p{
 
     
 
-/*Falta adapatar el media 
+/*Falta adapatar el media */
+@media screen and (max-width: 300px){
+
+
+}
