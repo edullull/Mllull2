@@ -97,6 +97,15 @@ p{
     max-width: 500px;
     text-align: center;
 }
+
+.sobre-mi2 .contenedor{
+    max-width: 500px;
+    text-align: center;
+}
+.sobre-mi3 .contenedor{
+    max-width: 500px;
+    text-align: center;
+}
 /*Experiencia*/
 .experiencia{
     padding: 40px;
@@ -120,6 +129,10 @@ p{
     font-weight: bold;
     margin: 10px 0;
     text-align: center;
+}
+.sobre-mi2{
+    height: 720px;
+    padding: 20px;
 }
 
 
@@ -164,6 +177,15 @@ p{
         height: 680px;
         padding: 20px;
     }
+    .sobre-mi2{
+        height: 720px;
+        padding: 20px;
+    }
+    .sobre-mi3{
+        height: 860px;
+        padding: 20px;
+    }
+
     h3{
         color: rgb(229, 55, 55);
     }
