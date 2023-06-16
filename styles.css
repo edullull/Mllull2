@@ -196,6 +196,14 @@ p{
         color: rgb(229, 55, 55);
     }
 
+    .contacto{
+        padding: 20px 20px 20px 20px;
+    }
+    .dudas{
+        padding: 20px 20px 20px 20px;
+        text-align: justify;
+    }
+
 }
 
 
